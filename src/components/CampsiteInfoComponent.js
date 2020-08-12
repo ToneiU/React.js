@@ -1,4 +1,4 @@
-import React, from 'react';
+import React from 'react';
 import { Card, CardImg, CardText, CardBody, CardTitle } from 'reactstrap';
     
     function RenderCampsite(campsite) { 
@@ -45,6 +45,6 @@ import { Card, CardImg, CardText, CardBody, CardTitle } from 'reactstrap';
             );
         }
     }
-}
+
  
 export default CampsiteInfo;
