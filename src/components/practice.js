@@ -1,4 +1,4 @@
-
+import React, { Component } from 'react';
 
 class CampInfo extends Component {
     render() { 
@@ -19,4 +19,7 @@ class CampInfo extends Component {
     }
 }
  
+
+ 
+export default Dream;
 export default CampInfo;
