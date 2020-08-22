@@ -176,7 +176,6 @@ class Contact extends Component {
                                             validEmail: 'Invalid email address'
                                         }}
                                     />
-                                    />
                                 </Col>
                             </Row>
                             <Row className="form-group">
